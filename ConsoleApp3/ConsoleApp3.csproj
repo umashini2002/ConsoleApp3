@@ -9,6 +9,7 @@
 
   <ItemGroup>
     <Compile Include="C:\Users\HP\Documents\c# mid.cs" Link="c# mid.cs" />
+    <Compile Include="C:\Users\HP\Documents\Employee.cs" Link="Employee.cs" />
   </ItemGroup>
 
 </Project>
